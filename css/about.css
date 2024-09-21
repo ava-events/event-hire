@@ -24,13 +24,13 @@ main > div > a {
 
 /* Change the colour of links on hover using mouse */
 main > div > a:hover {
-  background-color: #4B3C35;
+  background-color: #5f6dc0;
   color: #E3DFDE;
 }
 
 /* Change the color of links on focus using tab button */
 main > div > a:focus {
-  background-color: #4B3C35;
+  background-color: #4a0f58;
   color: #E3DFDE;
   outline: none;
 }
@@ -45,7 +45,7 @@ main > div > a:focus {
 }
 
 main {
-  background-color: #4B3C35;
+  background-color: #a114cc;
   display: grid;
   grid-template-areas:
   '.'
@@ -60,7 +60,7 @@ main {
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width:  992px) {
 
   main {
     grid-template-areas:

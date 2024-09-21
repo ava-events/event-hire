@@ -30,7 +30,7 @@ aside a:hover {
 
 /* Change the color of aside links on focus using tab key */
 aside a:focus {
-  background-color: #4B3C35;
+  background-color: #d3d62b;
   color: #E3DFDE;
   outline: none;
 }
@@ -51,7 +51,7 @@ article a {
 
 /* Change the color of article links on hover using mouse */
 article a:hover {
-  background-color: #c547bb;
+  background-color: #e9e1eb;
   color: #4B3C35;
 }
 

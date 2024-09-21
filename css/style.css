@@ -3,7 +3,8 @@
 }
 
 body {
-	background: #4B3C35;
+	
+	background: #660a8a;
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0;
 }
@@ -12,7 +13,7 @@ body {
 
 /* Style the header which contains the navigation links */
 header {
-    background-color: #e100ff;
+    background-color: #660a8a;
     overflow: hidden;
   }
   
@@ -74,7 +75,7 @@ header {
   
   /* Change the color of the active/current link */
   .active_nav {
-    background-color: #87604E;
+    background-color: #660a8a;
     color: white;
   }
 
@@ -100,7 +101,7 @@ footer {
           display:block
         }
   
-        /* Style the Knitters heading */
+        /* Style the ava headding */
         h1 {
           text-align: left;
           width: 390px;
